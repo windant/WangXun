@@ -1,0 +1,7 @@
+软件都在html里面
+您可以使用idea直接打开start.html 总之必须采用localhost方式打开
+
+windows用户直接双击启动.bat 即可 打开浏览器访问 http://localhost:12345/magicaldrag/start.html 请尽量使用chrome访问 获取最优体验
+
+
+手动启动：双击ngxin.exe 打开浏览器访问 http://localhost:12345/magicaldrag/start.html
